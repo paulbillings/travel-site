@@ -1,0 +1,23 @@
+{
+  "name": "travel-site",
+  "version": "1.0.0",
+  "description": "Travel site created using Git-a-job",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulbillings/travel-site.git"
+  },
+  "author": "Paul Billings",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulbillings/travel-site/issues"
+  },
+  "homepage": "https://github.com/paulbillings/travel-site#readme",
+  "dependencies": {
+    "jquery": "^3.3.1",
+    "normalize.css": "^8.0.0"
+  }
+}
